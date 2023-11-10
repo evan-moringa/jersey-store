@@ -14,3 +14,16 @@ h2{
   text-align: center;
 }
 
+.footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color:black;
+  color: aliceblue;
+  padding: 10px;
+}
+
+.logo {
+  width: 100px; 
+  height: auto;
+}
