@@ -1,29 +1,26 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect, useState } from "react";
 
-const TeamList = () => {
+function TeamList() {
   const [teams, setTeams] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:3000/teams')
-      .then((res) => res.json())
-      .then((data) => setTeams(data));
-  }, []);
+    // Fetch teams from the backend API
+    fetch("http://localhost:3000/teams")
+      .then((response) => response.json())
+      .then((data) => setTeams(data))
+      .catch((error) => console.error("Error fetching teams:", error));
+  }, []); // Empty dependency array means this effect runs once on component mount
 
   return (
     <div>
-      
+      <h2>Teams</h2>
       <ul>
         {teams.map((team) => (
-          <li key={team.id}>
-            <h3>{team.team_name}</h3>
-            Home Kit: <img src={team.home_kit_image} alt="Home Kit" />
-            Away Kit: <img src={team.away_kit_image} alt="Away Kit" />
-            <p>Price: ${team.price.toFixed(2)}</p>
-          </li>
+          <li key={team.id}>{team.name}</li>
         ))}
       </ul>
     </div>
   );
-};
+}
 
 export default TeamList;
