@@ -32,14 +32,14 @@
       "id": 8,
       "team_name": "Inter Milan",
       "home_kit_image": "https://www.soccerbible.com/media/149271/inter-6-min.jpg",
-      "away_kit_image": "https://www.soccerbible.com/media/149818/inter-1-min.jpg",
+      "away_kit_image": "https://www.footballshirtculture.com/images/2023/inter_milan_2023_24_nike_away_kit.jpg",
       "price": 79.99
     },
     {
       "id": 9,
       "team_name": "Tottenham",
       "home_kit_image": "https://downfield.ph/cdn/shop/files/351779180_240173245318113_4973163011699070630_n_1080x.jpg?v=1686210614",
-      "away_kit_image": "https://www.soccerbible.com/media/150259/spurs-1-min.jpg",
+      "away_kit_image": "https://static.nike.com/a/images/t_default/5f5a8c62-ae86-4385-987b-3f3bb6473585/tottenham-hotspur-2023-24-match-away-dri-fit-adv-football-shirt-8CJ8Z5.png",
       "price": 69.99
     },
     {
@@ -123,16 +123,10 @@
       "id": 21,
       "team_name": "Ajax",
       "home_kit_image": "https://downfield.ph/cdn/shop/files/358424187_259705163358594_4051643560573992481_n_1024x1024@2x.jpg?v=1688716357",
-      "away_kit_image": "https://www.soccerbible.com/media/147685/ajax-5-min.jpg",
+      "away_kit_image": "https://cdn.mos.cms.futurecdn.net/XDBBBjFu3QyxxAPcpoRPg6.jpg",
       "price": 64.99
-    },
-    {
-      "id": 22,
-      "team_name": "Bayer Leverkusen",
-      "home_kit_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6UHNvQVPAHLJrI7ECpcjU28C8eyDffHyY60tSwEYnLnERrI5FIBPe4KtykgJVoYf0vMReB2uTdMnfhY2278tWQEcX-0_UVcMPoVyGX7vIn5n2sI1YJDVILJ9IE-WWIqimW_rWBlU7xPZQ1UZ8-GAMNaZAkxlRtTHa--uoWy9Ef_GKLEpRjJZ9ItKDCtw/s1600/leverkusen%2023%2024%20kit%20%281%29.jpg",
-      "away_kit_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlW2abO0VbYk_tGd7wxok78LMMuzY0wU6ww&usqp=CAU",
-      "price": 59.99
     }
+    
     
   ]
 }
