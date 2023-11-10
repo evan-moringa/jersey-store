@@ -2,7 +2,7 @@ import React from 'react'
 import NavBar from './component/NavBar'
 import Header from './component/Header'
 //import About from './component/About'
-import TeamList from './component/TeamList'
+//import TeamList from './component/TeamList'
 import KitSearch from './component/KitSearch'
 import TeamCollection from './component/TeamCollection'
 //import CreateTeamForm from './CreateTeamForm'
@@ -15,7 +15,7 @@ export default function App() {
 <Header />
 <KitSearch />
 <TeamCollection />
-<TeamList />
+
 
     </div>
   )
