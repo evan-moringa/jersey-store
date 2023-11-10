@@ -1,126 +1,126 @@
 {
   "teams": [
     {
-      "id": 3,
+      "id": 1,
       "team_name": "Chelsea",
       "home_kit_image": "https://sbprostorage02v2.blob.core.windows.net/media/149118/chelsea-tab-min.jpg",
       "away_kit_image": "https://www.soccerbible.com/media/150686/chelsea-away-main.jpg",
       "price": 64.99
     },
     {
-      "id": 4,
+      "id": 2,
       "team_name": "Arsenal",
       "home_kit_image": "https://www.soccerbible.com/media/147662/arsenal-1-min.jpg",
       "away_kit_image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9e30161f6f37431288e35c06b811f77a_9366/Arsenal_23-24_Away_Jersey_Yellow_HZ2106_01_laydown.jpg",
       "price": 69.99
     },
     {
-      "id": 5,
+      "id": 3,
       "team_name": "Barcelona",
       "home_kit_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlK7YCimt7vw8sYK10zpEPED1aPfY_5FHNAQ&usqp=CAU",
       "away_kit_image": "https://www.soccerbible.com/media/149639/barca-1-min.jpg",
       "price": 54.99
     },
     {
-      "id": 6,
+      "id": 4,
       "team_name": "Paris Saint Germain",
       "home_kit_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5rhHHPQgIwetyqnWb7iJEaKqWnF-DnwySmrKzb8hLXrVBTW9uiZUOxOkI_1XSFhA6A6gB15GuRfGsA2k5qKw8NVC0GAUxqDVHQQZAXk2VB-kJIF4SypL8OVrE2p3IYOoKdiVG5yDf-fcoORjUhEQ9u-zSt-k718Mxc79fbop9VyJVCdQfkGnAa7-Q/s1600/psg%2023%2024%20home%20kit%20%2816%29.jpg",
       "away_kit_image": "https://images.footballfanatics.com/paris-saint-germain/paris-saint-germain-nike-away-stadium-shirt-2023-24-kids-with-kolo-muani-23-printing_ss5_p-200611644+pv-2+u-7h5vq8sbnhypwr2ogsgm+v-hbfgblqmwzxbqrwjrfvg.jpg?_hv=2&w=900",
       "price": 74.99
     },
     {
-      "id": 8,
+      "id": 5,
       "team_name": "Inter Milan",
       "home_kit_image": "https://www.soccerbible.com/media/149263/inter-2-min.jpg",
       "away_kit_image": "https://www.footballshirtculture.com/images/2023/inter_milan_2023_24_nike_away_kit.jpg",
       "price": 79.99
     },
     {
-      "id": 9,
+      "id": 6,
       "team_name": "Tottenham",
       "home_kit_image": "https://downfield.ph/cdn/shop/files/351779180_240173245318113_4973163011699070630_n_1080x.jpg?v=1686210614",
       "away_kit_image": "https://static.nike.com/a/images/t_default/5f5a8c62-ae86-4385-987b-3f3bb6473585/tottenham-hotspur-2023-24-match-away-dri-fit-adv-football-shirt-8CJ8Z5.png",
       "price": 69.99
     },
     {
-      "id": 10,
+      "id": 7,
       "team_name": "Bayern Munchen",
       "home_kit_image": "https://www.jerseybdclub.com/wp-content/uploads/2023/05/Bayern-Munich-Home-Kit-23-25-Unveiled-822x1024.jpg.webp",
       "away_kit_image": "https://havencraft.co.ke/wp-content/uploads/2023/08/Bayern-2324-AW-AU-1-1000x1000-1.jpg",
       "price": 49.99
     },
     {
-      "id": 11,
+      "id": 8,
       "team_name": "Borussia Dortmund",
       "home_kit_image": "https://www.soccerbible.com/media/147689/bvb-1-min.jpg",
       "away_kit_image": "https://www.soccerbible.com/media/150634/bvb-9-min.jpg",
       "price": 59.99
     },
     {
-      "id": 12,
+      "id": 9,
       "team_name": "RB Leipzig",
       "home_kit_image": "https://assets.redbullshop.com/images/f_auto,q_auto/t_product-list-3by4/products/RBL/2023/RBL23001_5_M01/RBL-Nike-Home-Jersey-23-24.jpg",
       "away_kit_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNbj0Q0ly5Xydx42zruIFoQZR-oDEWP-y0ouhAapTk1i9fZxdxQmgSKjDCezm8Q-IROhOe30p_fdS9FDDPP5F2KUHJEBx-4d74u3XaoMV-fpab5__IBWvA3d3nZp2q6xncwWxKIPJp90YqQn7PSyVstOpKKKyNIdqihWb6JwJS5zpa1pUiRBJ88rwt/s1600/leipzig-23-24-away-kit%20%281%29.jpg",
       "price": 64.99
     },
     {
-      "id": 13,
+      "id": 10,
       "team_name": "Feyenoord",
       "home_kit_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPZ3mDDh5eNyWaJxO1FO42Pgw0lwm6tQW66P3oL48k28bYEjJ2t8xw-7wnIL6yT46raHQqvm9TMIZ9Zjf7V8Ag4JviLYJ3r51bmKShl0KAQ7MY4fFLS0UuRcmbpqpenHBB_jAjJcpLp6d2dUtvRjJgutA8TpMhSWdd6AR68148vjSHtgArHAZCQ9gVrqo/s1600/feyenoord-23-24-home-kit%20%287%29.jpg",
       "away_kit_image": "https://www.footballshirtculture.com/images/2023/feyenoord_2023_24_castore_away_kit.jpg",
       "price": 54.99
     },
     {
-      "id": 14,
+      "id": 11,
       "team_name": "Fc Benfica",
       "home_kit_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhlKAf1X1Bgl3JicfUDmz9gpYat4p_QMtQPHIBHnIG2-OvhcwydprvDCNz5Oxjw0KBlqpFsTdRi0XCvw8feQ6uTRVRNKs2O4zIjeDmnVh9VDuEUrXe0NmEHAr-pG1ZQ6NR2c6qKttG8ckrfqUjFRHB056kS7BElrbQgYfacNib3layYFVEvllYt33j/s1600/benfica-23-24-home-kit%20%283%29.jpg",
       "away_kit_image": "https://media.slbenfica.pt/-/media/benficadp/shop/produtos-2020-2021/equipamentos/23-24/alternativa/homem/camisola_alternativa_adidas_2023_2024.jpg?v=638239822490000000",
       "price": 69.99
     },
     {
-      "id": 15,
+      "id": 12,
       "team_name": "Fc Porto",
       "home_kit_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqhbZ_WJtW-z7XbdHhCHlIwIta51BLSt19zA&usqp=CAU",
       "away_kit_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgljE26N28SAT-lwi5ditkYhpqrWBsoLL9gstj14Regg4ziQWJqof0s4PsQbyAAGVzFz5-NNpAYizqT4RZdavRkXE4TIQ92bOsVtRJUe_x2rZfzrhDOhwhLZ9L4WrrUmYBT57PGgGNu0CUf3Fg-p39gYerBIwouCY1VbF8kzLmaeoPQlogbcauljByL/s1600/porto-23-24-third-kit%20%283%29.jpg",
       "price": 59.99
     },
     {
-      "id": 16,
+      "id": 13,
       "team_name": "Newcastle Fc",
       "home_kit_image": "https://www.soccerbible.com/media/148152/newcastle-5-min.jpg",
       "away_kit_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdo4c1aQwK8kJb3NbyiFaMU4aFrYGzBZ1-30tb89a1JEgU_XNpp890DwrzbRRtRA6mfNFrVhShIFJre4nqyWvwWMX0NwEdPkVPg065Ko3S4-e80WnK1ODKHe9CUvtnyk9SN5DSjbD-4y7BtAbYekLNM8Z6BccWt-wyLT-4cE4rhNC5F0xmF8ks1lwc93M/s1600/newcastle-united-23-24-away-kit-6.jpg",
       "price": 74.99
     },
     {
-      "id": 17,
+      "id": 14,
       "team_name": "Atletico Madrid",
       "home_kit_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifOX2SYXe4DIB7dE9JGbde9QSxVeNVQurCPPQnpsoeCwxEucctQSIsHYeD5MYaFcElQC528qMCJb2ZB5ewJKUACUs6nGYBmTfA_p4GD9Ir8hSBjOdU9IlZ7lj3pfUJbHbbeZejV3qEUvYHL3O636T7XJstiDaVPfmqEo7ICr8V7GbMTNTTPVLaoXBpiwA/s1600/atletico-madrid-23-24-home-kit-7.jpg",
       "away_kit_image": "https://goatkitstore.com/cdn/shop/files/d115e45088064989.jpg?v=1687457427",
       "price": 49.99
     },
     {
-      "id": 18,
+      "id": 15,
       "team_name": "Liverpool Fc",
       "home_kit_image": "https://goatkitstore.com/cdn/shop/files/11c2a9ed.jpg?v=1685652989",
       "away_kit_image": "https://goatkitstore.com/cdn/shop/files/e6837c6a3c575c71.jpg?v=1687462513",
       "price": 69.99
     },
     {
-      "id": 19,
+      "id": 16,
       "team_name": "Napoli",
       "home_kit_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaiJ9O7P5VaOxVHWOOLDVkNtSvZm2DCJDLkeJyhpBMVSrMmnrAW2y-P5gxuRS6K4wiDwcQfsb5pEnU2RJGfZmiab1O6-lsj-p1kyZ6i8zuOiWy00FpXNe7f6q9V14iuObx92Zh9A6dShvybRuLDXlmlDBcz4DWnTXZ2NVWDtLCMIb1Dl5XsP8r0_m0sCI/s1600/napoli%2023%2024%20kits%20%2826%29.jpg",
       "away_kit_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioRESqP8PtOoSiWhivhW4bbdiJ5gHi0K-JNhnXyLUmTU9PBpGmnx5PP03Hbg85MlECwDm8TFD_TjRMnw5jZ83JnVeFH8i4wx7EdvoQSA7E1Y13-jFbNqtt5wXWx290XYyW6kH--bnS_tV8K6Ru88JZJzyLIi6-V-DUHbrsn9qhwSikRJsegrz-ZRCOfW4/s1600/napoli%2023%2024%20kits%20%2831%29.jpg",
       "price": 49.99
     },
     {
-      "id": 20,
+      "id": 17,
       "team_name": "Juventus",
       "home_kit_image": "https://store.juventus.com/data/store/product/5/59277/product.jpg",
       "away_kit_image": "https://www.juventus.com/images/image/private/t_editorial_landscape_12_desktop/dev/e9vywehtxxw5umdsaav1.jpg",
       "price": 59.99
     },
     {
-      "id": 21,
+      "id": 18,
       "team_name": "Ajax",
       "home_kit_image": "https://downfield.ph/cdn/shop/files/358424187_259705163358594_4051643560573992481_n_1024x1024@2x.jpg?v=1688716357",
       "away_kit_image": "https://cdn.mos.cms.futurecdn.net/XDBBBjFu3QyxxAPcpoRPg6.jpg",
