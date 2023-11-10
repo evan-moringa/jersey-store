@@ -42,7 +42,7 @@ const TeamCollection = () => {
       <h4>Football Teams</h4>
       <Grid columns={3} doubling>
         {teams.map((team) => (
-          <Grid.Column key={team.id}>
+          <Grid.Column key={team.id} style={{ paddingLeft: '10px', paddingRight: '10px' }}>
             <Card>
               <Image src={team.home_kit_image} alt="Home Kit" wrapped ui={false} />
               <Card.Content>
