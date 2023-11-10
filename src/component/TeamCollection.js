@@ -20,7 +20,7 @@ const TeamCollection = () => {
   };
 
   const handleDeleteTeam = (teamId) => {
-    // Make a DELETE request to the server to delete the team
+   
     fetch(`http://localhost:3000/teams/${teamId}`, {
       method: 'DELETE',
     })
@@ -64,7 +64,7 @@ const TeamCollection = () => {
                 <Button primary onClick={() => handleAddToCart(team.id)}>
                   Add to Cart
                 </Button>
-                {/* Add a button to delete the team */}
+               
                 <Button color="red" onClick={() => handleDeleteTeam(team.id)}>
                   Delete
                 </Button>
