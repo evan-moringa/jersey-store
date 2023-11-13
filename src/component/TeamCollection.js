@@ -7,7 +7,7 @@ const TeamCollection = () => {
   const [selectedTeam, setSelectedTeam] = useState(null);
 
   useEffect(() => {
-    fetch('http://localhost:3000/teams')
+    fetch('https://jersey-wrld.onrender.com/teams')
       .then((res) => res.json())
       .then((teams) => setTeams(teams));
   }, []);
