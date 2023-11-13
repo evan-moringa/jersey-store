@@ -6,7 +6,7 @@ const TeamSearch = () => {
   const [searchTerm, setSearchTerm] = useState('');
 
   useEffect(() => {
-    fetch('https://jersey-wrld.onrender.com/teams')
+    fetch('http://localhost:3000/teams')
       .then((res) => res.json())
       .then((data) => {
         setTeams(data);

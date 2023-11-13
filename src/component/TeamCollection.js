@@ -7,7 +7,7 @@ const TeamCollection = () => {
   const [selectedTeam, setSelectedTeam] = useState(null);
 
   useEffect(() => {
-    fetch('https://jersey-wrld.onrender.com/teams')
+    fetch('http://localhost:3000/teams')
       .then((res) => res.json())
       .then((teams) => setTeams(teams));
   }, []);
@@ -21,7 +21,7 @@ const TeamCollection = () => {
 
   const handleDeleteTeam = (teamId) => {
    // Delete teams
-    fetch(`https://jersey-wrld.onrender.com/teams/${teamId}`, {
+    fetch(`http://localhost:3000/teams/${teamId}`, {
       method: 'DELETE',
     })
       .then((res) => {
