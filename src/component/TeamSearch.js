@@ -7,7 +7,7 @@ const TeamSearch = () => {
 
   useEffect(() => {
     fetch('https://jersey-wrld.onrender.com/teams')
-      .then((response) => response.json())
+      .then((res) => res.json())
       .then((data) => {
         setTeams(data);
         setFilteredTeams(data); // filteredTeams with all teams
