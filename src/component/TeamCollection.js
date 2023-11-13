@@ -21,7 +21,7 @@ const TeamCollection = () => {
 
   const handleDeleteTeam = (teamId) => {
    
-    fetch(`http://localhost:3000/teams/${teamId}`, {
+    fetch(`https://jersey-wrld.onrender.com/teams/${teamId}`, {
       method: 'DELETE',
     })
       .then((res) => {

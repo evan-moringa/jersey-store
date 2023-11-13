@@ -7,7 +7,7 @@ function AddTeamForm({ onAddTeam }) {
     
 
     // Send a POST request to your backend API
-    fetch("http://localhost:3000/teams", {
+    fetch("https://jersey-wrld.onrender.com/teams", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

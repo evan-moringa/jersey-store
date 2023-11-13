@@ -5,7 +5,7 @@ function TeamList() {
 
   useEffect(() => {
     // Fetch teams from the backend API
-    fetch("http://localhost:3000/teams")
+    fetch("https://jersey-wrld.onrender.com/teams")
       .then((response) => response.json())
       .then((data) => setTeams(data))
       .catch((error) => console.error("Error fetching teams:", error));

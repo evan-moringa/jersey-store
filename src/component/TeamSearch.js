@@ -6,11 +6,11 @@ const TeamSearch = () => {
   const [searchTerm, setSearchTerm] = useState('');
 
   useEffect(() => {
-    fetch('http://localhost:3000/teams')
+    fetch('https://jersey-wrld.onrender.com/teams')
       .then((response) => response.json())
       .then((data) => {
         setTeams(data);
-        setFilteredTeams(data); // Initialize filteredTeams with all teams
+        setFilteredTeams(data); // filteredTeams with all teams
       });
   }, []);
 
