@@ -20,7 +20,7 @@ const TeamCollection = () => {
   };
 
   const handleDeleteTeam = (teamId) => {
-   
+   // Delete teams
     fetch(`https://jersey-wrld.onrender.com/teams/${teamId}`, {
       method: 'DELETE',
     })
