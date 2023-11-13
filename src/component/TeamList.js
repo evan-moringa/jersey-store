@@ -9,7 +9,7 @@ function TeamList() {
       .then((response) => response.json())
       .then((data) => setTeams(data))
       .catch((error) => console.error("Error fetching teams:", error));
-  }, []); // Empty dependency array means this effect runs once on component mount
+  }, []);
 
   return (
     <div>
